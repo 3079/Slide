@@ -15,7 +15,7 @@ There's also a second slide appearing at some point, for which you have to use t
 </p>
 
 The theme of the jam was "Deeper and deeper" so the idea is that at some point sliders extend and you can go lower which adds variety and challenge to the gameplay.
-(I messed up the UI scaling though, so level 3 migh be bugged for some resoultions as you can see on the GIF, so I recommend exiting full screen for this one as this might help).
+(I messed up the UI scaling though, so level 3 migh be bugged for some resoultions, making the level impossible to beat perfectly, so I recommend exiting full screen for this one as this might help).
 
 <p align="center">
   <img src="https://github.com/3079/Slide/blob/main/slide_3.gif?raw=true"/>
