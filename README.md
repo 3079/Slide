@@ -2,7 +2,7 @@
 
 You can play the game [here](https://chertkov.itch.io/slide)
 
-Slide! is a rythm game where you have to press the right button on beat when the note (pink rhombus) aligns with the knob of the slide (yellow circle on the left) while it's in the red zone. The more on beat you are, the more points you receive. The game was made in 72 hours for the Ludum Dare 48. 
+Slide! is a rythm game where you have to press the right button on beat when the note (pink rhombus) aligns with the knob of the slide (yellow circle on the left) while it's in the red zone. The more on beat you are, the more points you receive. The game was made in 72 hours as a Ludum Dare 48 game jam entry. 
 
 <p align="center">
   <img src="https://github.com/3079/Slide/blob/main/slide_1.gif?raw=true"/>
